@@ -45,10 +45,8 @@ optional arguments:
   --save-metadata FILE, -S FILE
                         specify the file to save the metadata of the gists. Format is JSON
   --verbose, -v         specify the verbosity of the program.
-
 ```
 
-```
 
 ## Perform gist-related operations
 ```
